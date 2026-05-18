@@ -4,6 +4,8 @@ This project showcases a functional network topology designed in **Cisco Packet 
 ## Network Topology
 The design features a star topology within each department, linked via a central router to enable inter-subnet communication.
 
+![Network Topology](./topologi.png)
+
 - **Router:** Cisco 2911 (Router0)
 - **Switches:** 2x Cisco 2960-24TT (ACCOUNTS & DELIVERY)
 - **End Devices:** - **Accounts:** 2 PCs (PC0, PC1) and 1 Network Printer (Printer0).
@@ -91,5 +93,3 @@ Verification was conducted by performing cross-departmental pings to ensure the 
 * **Router Configuration:** Setting up Gateways and enabling interfaces via Cisco IOS CLI.
 * **Network Troubleshooting:** Verifying end-to-end connectivity across Layer 3 boundaries.
 * **Topology Documentation:** Clearly mapping out network flow and addressing.
-
----
