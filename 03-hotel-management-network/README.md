@@ -6,7 +6,7 @@ This project involves the design and implementation of an enterprise-grade netwo
 ## Network Topology
 The topology utilizes a multi-router core connected via Serial DCE cables, with each router managing the inter-VLAN routing (Router-on-a-Stick) and DHCP services for its respective floor.
 
-![Vic Modern Hotel Topology](./topologi.png)
+![Vic Modern Hotel Topology](./topology.png)
 
 ### Hardware Architecture
 * **Routers:** 3x Cisco 2901 (F1-Router, F2-Router, F3-Router) connected in a triangle topology via Serial DCE interfaces.

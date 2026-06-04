@@ -8,7 +8,7 @@ The architecture implements **VLAN segmentation**, **Inter-VLAN routing (Router-
 ## Network Topology
 The network follows a centralized Router-on-a-Stick (ROAS) topology to handle inter-VLAN routing efficiently.
 
-![Branch Topology](./topologi.png)
+![Branch Topology](./topology.png)
 
 ### Hardware & Devices
 - **Router:** 1x Cisco 2911 (Handles Inter-VLAN routing and acts as the DHCP Server).
