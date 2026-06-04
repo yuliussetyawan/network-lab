@@ -128,24 +128,6 @@ A sophisticated enterprise network spanning three floors with dynamic routing, r
 
 ---
 
-## 📝 Files & Structure
-
-```
-networking-lab/
-├── README.md (this file)
-├── 01-simple-networking-project/
-│   ├── 01-simple-networking-project.pkt
-│   └── README.MD
-├── 02-soho/
-│   ├── 02-soho.pkt
-│   └── README.md
-└── 03-hotel-management-network/
-    ├── 03-hotel-management-network.pkt
-    └── README.md
-```
-
----
-
 ## 🔧 Tools & Software
 
 - **Cisco Packet Tracer** - Network simulation and design platform
