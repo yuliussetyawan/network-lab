@@ -1,4 +1,4 @@
-# Project 10: Basic Router and Switch Configuration
+# Project 1: Basic Router and Switch Configuration
 
 ## Project Overview
 This project covers the foundational setup and configuration of a Cisco Router and Switch, alongside endpoint PC IP address assignment. The lab demonstrates essential security practices (passwords, banners, encryption), remote access setup (VTY), interface descriptions, DHCP client configuration, and fundamental connectivity testing.
